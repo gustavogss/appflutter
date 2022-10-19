@@ -51,7 +51,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text('Quantidade de vezes que o botão é apertado:',
+            const Text('Quantidade de cafés que tomamos:',
                 style: TextStyle(color: Colors.black, fontSize: 16)),
             Text(
               '$_counter',

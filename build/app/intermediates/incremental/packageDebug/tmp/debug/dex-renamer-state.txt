@@ -1,0 +1,4 @@
+#Wed Oct 19 13:12:33 BRT 2022
+base.0=/home/gss-dev/Workspace/DIO/FLUTTER/appflutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
